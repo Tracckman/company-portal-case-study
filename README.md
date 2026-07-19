@@ -7,6 +7,10 @@
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3FCF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
+![Sanitized Company Portal product showcase](assets/company-portal-showcase.png)
+
+*Representative portfolio mockup using fictional data. Production records and proprietary screens are not shown.*
+
 ## At a glance
 
 | | |
