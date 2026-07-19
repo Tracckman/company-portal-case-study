@@ -7,9 +7,21 @@
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3FCF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-![Sanitized Company Portal product showcase](assets/company-portal-showcase.png)
+## Product views
 
-*Representative portfolio mockup using fictional data. Production records and proprietary screens are not shown.*
+### Role-based application launcher
+
+![Company Portal role-based application launcher](assets/company-portal-app-launcher.png)
+
+*The portal presents each authorized department as a focused workspace, keeping a large operational system understandable.*
+
+### Executive Assistant training workspace
+
+![Company Portal Executive Assistant playbook academy](assets/company-portal-ea-playbook.png)
+
+*A structured three-day academy combines lessons, progress tracking, simulations, QA, daily operations, and role-specific tools.*
+
+> These are sanitized production views. Personal identifiers and editor overlays were removed; no customer or operational records are shown.
 
 ## At a glance
 
@@ -168,9 +180,9 @@ The production repository remains private because it contains company-specific w
 - Employee, customer, payment, or performance records
 - Internal training and process documents
 - Credentials, project identifiers, and private integration details
-- Screenshots containing real operational data
+- Screenshots containing real operational data or personal identifiers
 
-Sanitized product screenshots and a demonstration environment can be added once representative demo data is available.
+The product views above were sanitized specifically for this portfolio. A separate demonstration environment can be added when representative demo data is available.
 
 ## About the builder
 
